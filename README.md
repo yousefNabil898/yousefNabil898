@@ -56,10 +56,5 @@ I'm a passionate frontend developer with experience in building modern web appli
   <img src="https://streak-stats.demolab.com?user=yousefNabil898&mode=daily&theme=dracula&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
 
----
 
-## 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yousefNabil898/yousefNabil898/output/snake.svg" alt="Snake animation" />
-</p>
