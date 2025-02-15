@@ -30,19 +30,6 @@ I'm a passionate frontend developer with experience in building modern web appli
   </div>
 </div>
 
-<style>
-  @keyframes marquee {
-    from { transform: translateX(100%); }
-    to { transform: translateX(-100%); }
-  }
-
-  @keyframes wave {
-    0%, 100% { transform: rotate(0deg); }
-    25% { transform: rotate(20deg); }
-    50% { transform: rotate(0deg); }
-    75% { transform: rotate(-20deg); }
-  }
-</style>
 
 ---
 
